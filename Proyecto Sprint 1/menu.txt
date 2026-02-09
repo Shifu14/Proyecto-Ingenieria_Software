@@ -1,0 +1,6 @@
+1;Arepa con queso;Arepa asada rellena de queso blanco;45.0;Lunes;12:00
+2;Pasta Bolognesa;Pasta con salsa a base de carne y tomate;60.0;Lunes;16:00
+3;Arroz con Pollo;Arroz guisado con pollo y vegetales mixtos;70.0;Martes;09:00
+4;Sopa de Costilla;Sopa tradicional de costilla de res con verduras;55.0;Miercoles;12:00
+5;Mondongo;Si;1000.0;Lunes;14:00
+6;Ceviche;Pescado;5.0;Domingo;02:00

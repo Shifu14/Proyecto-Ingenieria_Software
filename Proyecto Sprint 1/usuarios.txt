@@ -1,0 +1,5 @@
+243,johan@gmail.com,31131,Consumidor
+johan,johan@hotmail.com,12345678,Consumidor
+joh,johan@yahoo.com,12345678,Consumidor
+israel,israel@gmail.com,121345678,Consumidor
+isra,israel@hotmail.com,12345678,Consumidor
