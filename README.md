@@ -9,3 +9,5 @@ El proyecto ha sido desarrollado utilizando herramientas nativas de Java:
 - Lenguaje: Java JDK 17.
 - Librerias de interfaz grafica: javax.swing y java.awt. Se utilizaron componentes como JFrame, JPanel, y LayoutManagersl.
 - Gestión de Datos: Manejo de archivos planos y formato JSON para la persistencia de datos (Costos y Menú).
+
+Proyecot hecho por el grupo #9.
