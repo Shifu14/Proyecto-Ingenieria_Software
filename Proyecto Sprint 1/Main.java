@@ -1,5 +1,5 @@
 import javax.swing.SwingUtilities;
-import comedor.PanelController; // <--- Importamos la clase desde el paquete 'src'
+import comedor.PanelController;
 
 public class Main {
     public static void main(String[] args) {
@@ -10,4 +10,5 @@ public class Main {
             new PanelController(); 
         });
     }
+
 }
