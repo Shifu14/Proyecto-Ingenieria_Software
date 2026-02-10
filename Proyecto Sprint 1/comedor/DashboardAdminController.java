@@ -17,7 +17,7 @@ public class DashboardAdminController {
         
         // Ir a Gestión de Menú
         vista.addMenuListener(e -> {
-            vista.dispose(); // Cerramos el dashboard temporalmente o lo mantenemos según prefieras
+            vista.dispose(); // Cerramos el dashboard temporalmente
             new MenuAdminController(); // Abrimos el controlador del menú
         });
 
@@ -42,4 +42,5 @@ public class DashboardAdminController {
             System.exit(0); // Por ahora cerramos la app
         }
     }
+
 }
