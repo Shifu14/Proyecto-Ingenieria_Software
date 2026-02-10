@@ -47,7 +47,7 @@ public class RegistroModel {
         return false;
     }
 
-    // [NUEVO] Método para verificar si el CORREO ya existe
+    // Método para verificar si el CORREO ya existe
     public static boolean existeCorreo(String correoBusqueda) {
         File archivo = new File(RUTA_ARCHIVO);
         if (!archivo.exists()) return false;
@@ -56,7 +56,7 @@ public class RegistroModel {
             String linea;
             while ((linea = br.readLine()) != null) {
                 String[] partes = linea.split(",");
-                // partes[1] es el Correo (según nuestro formato CSV)
+        
                 if (partes.length > 1 && partes[1].equalsIgnoreCase(correoBusqueda)) {
                     return true; 
                 }
@@ -74,4 +74,5 @@ public class RegistroModel {
     public String getCorreo() { return correo; }
     public String getPassword() { return password; }
     public String getTipo() { return tipo; }
+
 }
