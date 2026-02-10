@@ -37,7 +37,7 @@ public class MenuConsumidorController {
     private void volverAlDashboard() {
         vista.dispose();
         // Regresa al Dashboard (Asumiendo usuario "Estudiante" por defecto)
-        new DashboardConsumidorController("Estudiante"); 
+        new DashboardConsumidorController("Consumidor"); 
     }
 
     private void filtrarTabla() {
@@ -48,4 +48,5 @@ public class MenuConsumidorController {
             JOptionPane.showMessageDialog(vista, "Filtrando por: " + texto);
         }
     }
+
 }
