@@ -32,8 +32,6 @@ public class MenuConsumidorModel {
         try (BufferedReader br = new BufferedReader(new FileReader(archivo))) {
             String linea;
             while ((linea = br.readLine()) != null) {
-                // CORRECCIÓN: Aquí cambiamos "Plato" por "MenuAdminModel"
-                // Usamos el método estático fromCSV que ya definimos en el modelo del admin
                 MenuAdminModel p = MenuAdminModel.fromCSV(linea);
                 
                 if (p != null) {
@@ -53,4 +51,5 @@ public class MenuConsumidorModel {
 
         return modelo;
     }
+
 }
