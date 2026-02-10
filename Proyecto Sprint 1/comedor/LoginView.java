@@ -81,7 +81,6 @@ public class LoginView extends JFrame {
         add(panel);
     }
 
-    // --- CORRECCIÓN: Método que devuelve el botón ya pintado ---
     private JButton crearBotonEstilizado(String texto, Color colorFondo) {
         JButton btn = new JButton(texto) {
             @Override
@@ -115,4 +114,5 @@ public class LoginView extends JFrame {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new LoginController());
     }
+
 }
