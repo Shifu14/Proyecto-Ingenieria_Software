@@ -10,11 +10,11 @@ public class RegistroView extends JFrame {
     private JTextField nombre;
     private JPasswordField contraseña;
     private JButton btnEntrada;
-    private JButton btnVolver; // Nuevo botón
+    private JButton btnVolver;
 
     public RegistroView() {
         setTitle("REGISTRO EN EL SISTEMA");
-        setSize(800, 700); // Un poco más alto para que quepa el nuevo botón
+        setSize(800, 700); 
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setLocationRelativeTo(null);
 
@@ -160,4 +160,5 @@ public class RegistroView extends JFrame {
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> new RegistroController());
     }
+
 }
