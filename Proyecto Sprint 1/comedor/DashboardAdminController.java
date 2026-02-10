@@ -37,10 +37,9 @@ public class DashboardAdminController {
         int confirm = JOptionPane.showConfirmDialog(vista, "¿Desea cerrar sesión?", "Confirmar", JOptionPane.YES_NO_OPTION);
         if (confirm == JOptionPane.YES_OPTION) {
             vista.dispose();
-            // Aquí llamarías a tu LoginController si lo tienes, por ejemplo:
-            // new LoginController(); 
-            System.exit(0); // Por ahora cerramos la app
+            System.exit(0); 
         }
     }
 
 }
+
