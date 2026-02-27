@@ -1,0 +1,3 @@
+269029;pabellon;si pabellon;120.0;Lunes;Almuerzo
+439559;empanadas de queso;fino;230.0;Lunes;Desayuno
+99;Test Plato;Desc;50.0;Martes;Desayuno

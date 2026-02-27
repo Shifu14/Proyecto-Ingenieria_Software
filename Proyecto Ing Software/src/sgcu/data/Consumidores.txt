@@ -1,0 +1,3 @@
+prueba,prueba@gmail.com,12345678,Consumidor,0.00
+johan,johan@gmail.com,12345678,Consumidor,25.50
+sakurai,masahiro@gmail.com,12345678,Consumidor,1500.00,src\sgcu\data\fotos\sakurai.png

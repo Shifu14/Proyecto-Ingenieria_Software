@@ -1,0 +1,16 @@
+package sgcu;
+import javax.swing.SwingUtilities;
+
+import sgcu.controladores.PanelController;
+
+public class Main {
+    public static void main(String[] args) {
+        // Ejecutamos la aplicación en el hilo de despacho de eventos de Swing
+        SwingUtilities.invokeLater(() -> {
+            // Iniciamos el Controlador del Panel Principal
+            // Este es el punto de entrada que abre la ventana de selección de perfil
+            new PanelController(); 
+        });
+    }
+
+}
