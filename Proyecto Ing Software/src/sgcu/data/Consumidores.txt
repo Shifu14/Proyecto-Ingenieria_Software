@@ -1,0 +1,4 @@
+
+sakurai,sakurai@ucv.ve,12345678,Estudiante,49990009871.00,src\sgcu\data\fotos\sakurai.png,V-123456789
+johan,johan@ucv.ve,12345678,Profesor,50.00,src\sgcu\data\fotos\johan.png,V-29661466
+israel,israel@ucv.ve,12345678,Estudiante,10000000.00,src\sgcu\data\fotos\israel.png,V-1

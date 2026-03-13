@@ -1,0 +1,6 @@
+johan,pabellon,6.36,12/03/2026 14:05
+johan,Pasta con carne molida,6.36,12/03/2026 14:06
+johan,Arroz,6.36,12/03/2026 14:06
+sakurai,Arroz,6.36,12/03/2026 15:12
+sakurai,Pasta con carne molida,6.36,12/03/2026 15:12
+sakurai,pabellon,6.36,12/03/2026 15:12

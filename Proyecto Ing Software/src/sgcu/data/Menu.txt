@@ -1,0 +1,6 @@
+131813;Arepa con carne mechada;tiene carne mechada;6.36;Miércoles;Desayuno
+747011;pabellon;es pabellon;6.36;Jueves;Almuerzo
+767686;Empanadas de queso;ingreidentes: queso;6.36;Lunes;Desayuno
+789053;Pasta con carne molida;descripcion;6.36;Viernes;Almuerzo
+816325;Arroz;arroz;6.36;Lunes;Almuerzo
+918201;plato de prueba;test;6.36;Martes;Desayuno
